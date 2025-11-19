@@ -19,8 +19,10 @@ To build an interactive business analytics dashboard with KPIs to analyze overal
 - 📍 XYZ product or region performs highest (customize based on analysis).
 
 ## 📂 Files Included
-- `Business_Performance_Dashboard.twbx` → Tableau packaged dashboard
+- `task3_Business_Performance.twbx` → Tableau packaged dashboard
 - `Dashboard_Screenshot.png` → Dashboard preview
+- `Superstore.csv` → Dataset
+- `Readme`→ Readme file
 
 ---
 📝 *Created as part of Task 3 for Data Analyst Internship at Elevate Labs.*
